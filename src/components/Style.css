@@ -1,0 +1,47 @@
+/* Global Font */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", Arial, sans-serif;
+  background-color: #f5f7fa;
+  font-size: 16px;              /* Increase base font size */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: #222;
+}
+
+/* Main content shifts right because sidebar width = 260px */
+.main-content {
+  margin-left: 260px;
+  padding: 20px;
+}
+
+/* Buttons */
+.btn {
+  padding: 10px 18px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-primary {
+  background-color: #4b7bec;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #3867d6;
+}
+
+/* Form Inputs */
+input, select, textarea {
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 4px;
+  width: 100%;
+  margin-bottom: 12px;
+}

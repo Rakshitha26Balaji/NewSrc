@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "tenderSlno": "TSL-001",
+      "domain": "Defence Electronics",
+      "projectName": "Radar Surveillance System",
+      "isYourSBULeadSBU": "Yes",
+      "leadSBUName": "Electronics & Radar SBU",
+      "qty": 12,
+      "sOrSsUnderThisProject": "System",
+      "businessValue": 125.5,
+      "drdoRemarks": "Project aligned with DRDO long-term roadmap"
+    },
+    {
+      "id": 2,
+      "tenderSlno": "TSL-002",
+      "domain": "Telecom",
+      "projectName": "Secure Communication Network",
+      "isYourSBULeadSBU": "No",
+      "leadSBUName": "Strategic Communications SBU",
+      "qty": 30,
+      "sOrSsUnderThisProject": "Subsystem",
+      "businessValue": 78.25,
+      "drdoRemarks": "Inter-SBU coordination required"
+    },
+    {
+      "id": 3,
+      "tenderSlno": "TSL-003",
+      "domain": "Aerospace",
+      "projectName": "Avionics Upgrade Program",
+      "isYourSBULeadSBU": "Yes",
+      "leadSBUName": "Aerospace Systems SBU",
+      "qty": 8,
+      "sOrSsUnderThisProject": "System",
+      "businessValue": 210.0,
+      "drdoRemarks": "Critical for next-gen aircraft platforms"
+    },
+    {
+      "id": 4,
+      "tenderSlno": "TSL-004",
+      "domain": "Naval Systems",
+      "projectName": "Shipborne Sonar Integration",
+      "isYourSBULeadSBU": "No",
+      "leadSBUName": "Naval Electronics SBU",
+      "qty": 5,
+      "sOrSsUnderThisProject": "Subsystem",
+      "businessValue": 95.75,
+      "drdoRemarks": "Requires naval certification clearance"
+    },
+    {
+      "id": 5,
+      "tenderSlno": "TSL-005",
+      "domain": "Cyber Security",
+      "projectName": "Defence Network Hardening",
+      "isYourSBULeadSBU": "Yes",
+      "leadSBUName": "Cyber Solutions SBU",
+      "qty": 20,
+      "sOrSsUnderThisProject": "System",
+      "businessValue": 60.0,
+      "drdoRemarks": "High priority – fast-track approval suggested"
+    }
+  ]
+}

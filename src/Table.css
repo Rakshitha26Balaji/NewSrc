@@ -1,0 +1,67 @@
+/* Table Container */
+.table-container {
+  margin-top: 20px;
+  padding: 20px;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+
+  font-size: 16px; /* Ensures all table text uses same size */
+}
+
+/* Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 16px;               /* Same text size everywhere */
+}
+
+/* Header */
+table thead {
+  background-color: #4b7bec;
+  color: white;
+}
+
+table th {
+  padding: 14px;
+  text-align: left;
+  font-weight: 600;
+}
+
+/* Body */
+table td {
+  padding: 14px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Row Hover Effect */
+table tbody tr:hover {
+  background-color: #f1f4ff;
+}
+
+/* Action Buttons inside Table */
+.action-btn {
+  padding: 8px 14px;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  border: none;
+}
+
+.action-edit {
+  background-color: #20bf6b;
+  color: white;
+}
+
+.action-edit:hover {
+  background-color: #0fbf56;
+}
+
+.action-delete {
+  background-color: #eb3b5a;
+  color: white;
+}
+
+.action-delete:hover {
+  background-color: #d63031;
+}

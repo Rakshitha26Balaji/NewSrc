@@ -1,0 +1,78 @@
+/* Page & Container */
+.tender-container {
+  background-color: #E9F3FF;
+  padding-top: 32px;
+  border-radius: 12px;
+}
+
+/* Outer Paper */
+.tender-paper {
+  background-color: #F5FAFF;
+  padding: 32px;
+  border-radius: 18px;
+}
+
+/* Section Cards */
+.tender-card {
+  background-color: #EFF7FF !important;
+  border: 1px solid #D6E9FF;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+/* Section Title */
+.section-title {
+  font-weight: 600 !important;
+  color: #1B6ECF !important;
+  margin-bottom: 12px !important;
+}
+
+/* TextFields */
+.text-field-style .MuiInputBase-root {
+  height: 60px;
+  min-width: 300px;
+  font-size: 1rem;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+}
+
+.text-field-style .MuiOutlinedInput-notchedOutline {
+  border-color: #A7C9F7;
+}
+
+.text-field-style:hover .MuiOutlinedInput-notchedOutline {
+  border-color: #70A8F3;
+}
+
+.text-field-style.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #1B6ECF;
+}
+
+.text-field-style .MuiInputLabel-root {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #1B6ECF;
+}
+
+/* Buttons */
+.btn-submit {
+  min-width: 200px;
+  margin: 0 8px;
+  background-color: #1B6ECF !important;
+  font-weight: 600;
+}
+.btn-submit:hover {
+  background-color: #155EB7 !important;
+}
+
+.btn-reset {
+  min-width: 200px;
+  margin: 0 8px;
+  border-color: #1B6ECF !important;
+  color: #1B6ECF !important;
+  font-weight: 600;
+}
+.btn-reset:hover {
+  border-color: #155EB7 !important;
+  background-color: #E0EDFF !important;
+}
